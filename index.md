@@ -6,7 +6,7 @@ title: hello
 
 ## Access URLs
 
-The site should be avialable from github as <http://agordon.github.io/custom_dns_test> .
+The site should be available from github as <http://agordon.github.io/custom_dns_test> .
 
 And using Github's DNS as <http://githubtest.teamerlich.org> .
 
